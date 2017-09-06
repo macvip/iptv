@@ -1,0 +1,240 @@
+#EXTM3U
+
+#EXTINF:0, CCTV-1 综合
+http://202.195.240.8/hls/cctv1hd.m3u8
+
+#EXTINF:0, CCTV-1 综合
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000083
+
+#EXTINF:0, CCTV-2 财经
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000084
+
+#EXTINF:0, CCTV-3 综艺
+http://202.195.240.8/hls/cctv3hd.m3u8
+
+#EXTINF:0, CCTV-3 综艺
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000085
+
+#EXTINF:0, CCTV-5 体育
+http://202.195.240.8/hls/cctv5hd.m3u8
+
+#EXTINF:0, CCTV-5 体育
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000086
+
+#EXTINF:0, CCTV-5+ 体育赛事
+http://202.195.240.8/hls/cctv5phd.m3u8
+
+#EXTINF:0, CCTV-5+ 体育赛事
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000087
+
+#EXTINF:0, CCTV-6 电影
+http://202.195.240.8/hls/cctv6hd.m3u8
+
+#EXTINF:0, CCTV-6 电影
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000088
+
+#EXTINF:0, CCTV-7 军事农业
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000089
+
+#EXTINF:0, CCTV-8 电视剧
+http://202.195.240.8/hls/cctv8hd.m3u8
+
+#EXTINF:0, CCTV-8 电视剧
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000090
+
+#EXTINF:0, CCTV-9 纪录
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000091
+
+#EXTINF:0, CCTV-10 科技
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000092
+
+#EXTINF:0, CCTV-12 社会与法
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000093
+
+#EXTINF:0, CCTV-14 少儿
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000094
+
+#EXTINF:0, 北京卫视
+http://202.195.240.8/hls/btv1hd.m3u8
+
+#EXTINF:0, 北京卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000095
+
+#EXTINF:0, 天津卫视
+http://202.195.240.8/hls/tjhd.m3u8
+
+#EXTINF:0, 天津卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000096
+
+#EXTINF:0, 东方卫视
+http://202.195.240.8/hls/dfhd.m3u8
+
+#EXTINF:0, 东方卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000097
+
+#EXTINF:0, 山东卫视
+http://202.195.240.8/hls/sdhd.m3u8
+
+#EXTINF:0, 山东卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000098
+
+#EXTINF:0, 江苏卫视
+http://202.195.240.8/hls/jshd.m3u8
+
+#EXTINF:0, 江苏卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000099
+
+#EXTINF:0, 重庆卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000100
+
+#EXTINF:0, 浙江卫视
+http://202.195.240.8/hls/zjhd.m3u8
+
+#EXTINF:0, 浙江卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000101
+
+#EXTINF:0, 黑龙江卫视
+http://202.195.240.8/hls/hljhd.m3u8
+
+#EXTINF:0, 黑龙江卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000102
+
+#EXTINF:0, 广东卫视
+http://202.195.240.8/hls/gdhd.m3u8
+
+#EXTINF:0, 广东卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000103
+
+#EXTINF:0, 深圳卫视
+http://202.195.240.8/hls/szhd.m3u8
+
+#EXTINF:0, 深圳卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000104
+
+#EXTINF:0, 湖北卫视
+http://202.195.240.8/hls/hbhd.m3u8
+
+#EXTINF:0, 湖北卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000105
+
+#EXTINF:0, 湖南卫视
+http://202.195.240.8/hls/hunanhd.m3u8
+
+#EXTINF:0, 湖南卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000106
+
+#EXTINF:0, 安徽卫视
+http://202.195.240.8/hls/ahhd.m3u8
+
+#EXTINF:0, 安徽卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000107
+
+#EXTINF:0, 四川卫视
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000108
+
+#EXTINF:0, CHC高清电影
+http://202.195.240.8/hls/chchd.m3u8
+
+#EXTINF:0, CHC高清电影
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106500623_800.m3u8
+
+#EXTINF:0, 北京文艺
+http://202.195.240.8/hls/btv2hd.m3u8
+
+#EXTINF:0, 北京体育
+http://202.195.240.8/hls/btv6hd.m3u8
+
+#EXTINF:0, 北京纪实
+http://202.195.240.8/hls/btv11hd.m3u8
+
+#EXTINF:0, 北京影视
+http://121.251.49.204/hls/btv4hd.m3u8
+
+#EXTINF:0, 纪实
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000109
+
+#EXTINF:0, 求索纪录
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000110
+
+#EXTINF:0, 某1台
+http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&protocol=http&accesstoken=R57997266U3F334B25K7735965BM2FAF5C9W27766&playtoken=31604AAZZAEAPZZ1&auth=no&programid=4200000112
+
+#EXTINF:0, 黑龙江影视
+http://stream2.hljtv.com/hljys/sd/live.m3u8
+#EXTINF:0, 黑龙江影视
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541059_800.m3u8
+
+#EXTINF:0, 黑龙江文艺
+http://stream2.hljtv.com/hljwy/sd/live.m3u8
+#EXTINF:0, 黑龙江文艺
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541060_800.m3u8
+
+#EXTINF:0, 黑龙江都市
+http://stream1.hljtv.com/hljdd/sd/live.m3u8
+#EXTINF:0, 黑龙江都市
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541061_800.m3u8
+
+#EXTINF:0, 黑龙江新闻
+http://stream2.hljtv.com/hljxw/sd/live.m3u8
+#EXTINF:0, 黑龙江新闻
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541162_800.m3u8
+
+#EXTINF:0, 黑龙江公共
+http://stream1.hljtv.com/hljgg/sd/live.m3u8
+#EXTINF:0, 黑龙江公共
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541163_800.m3u8
+
+#EXTINF:0, 黑龙江少儿
+http://stream1.hljtv.com/hljse/sd/live.m3u8
+#EXTINF:0, 黑龙江少儿
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541164_800.m3u8
+
+#EXTINF:0, 黑龙江导视
+http://stream1.hljtv.com/hljds/sd/live.m3u8
+
+#EXTINF:0, 北京卡酷
+http://121.251.49.204/hls/btv10.m3u8
+
+#EXTINF:0, 金鹰卡通
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541295_800.m3u8
+#EXTINF:0, 新科动漫
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607563_800.m3u8
+#EXTINF:0, 优漫卡通
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106673629_800.m3u8
+#EXTINF:0, 动漫秀场
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558314_800.m3u8
+#EXTINF:0, 都市剧场
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558315_800.m3u8
+#EXTINF:0, 欢笑剧场
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106680413_800.m3u8
+
+#EXTINF:0, CIBN动作电影
+http://live.gslb.letv.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:0, CIBN华语电影
+http://live.gslb.letv.com/gslb?stream_id=lb_hydy_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:0, CIBN电视剧
+http://live.gslb.letv.com/gslb?stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:0, CIBN笑傲江湖
+http://live.gslb.letv.com/gslb?stream_id=lb_xajh_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:0, 韩国高清电影
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_movie_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, 好莱坞高清影院
+http://live.g3proxy.lecloud.com/gslb?stream_id=lb_hlw_1800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, 纪录片HD
+http://live.gslb.letv.com/gslb?stream_id=lb_jilu_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
+#EXTINF:0, 高清频道1080P
+http://live.gslb.letv.com/gslb?stream_id=lb_1080P_1080p3m&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:0, 电影
+http://live.gslb.letv.com/gslb?stream_id=lb_movie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:0, 都市剧场
+http://live.gslb.letv.com/gslb?stream_id=lb_dsjc_800&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1007&format=cs1&expect=3
+#EXTINF:0, 动作电影
+http://live.gslb.letv.com/gslb?stream_id=lb_dzdy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:0, 喜剧电影
+http://live.gslb.letv.com/gslb?stream_id=lb_comedy_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:0, 电视剧
+http://live.gslb.letv.com/gslb?stream_id=lb_tv_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+#EXTINF:0, 香港电影
+http://live.gslb.letv.com/gslb?stream_id=lb_hkmovie_1300&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=3
+
+
